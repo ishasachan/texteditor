@@ -1,2 +1,2 @@
 # texteditor
-Created with CodeSandbox
+Created with React
